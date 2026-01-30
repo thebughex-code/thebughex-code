@@ -36,4 +36,4 @@ we engineer experiences, simplify complexity, and empower you to focus on what r
 
 
 ![BugHex GitHub Stats](https://github-readme-stats.vercel.app/api?username=thebughex-code&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thebughex-code&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZENSH1&layout=compact&theme=radical)
